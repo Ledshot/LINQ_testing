@@ -1,0 +1,13 @@
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\bin\Debug\netcoreapp3.1\LINQ_testing.exe
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\bin\Debug\netcoreapp3.1\LINQ_testing.deps.json
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\bin\Debug\netcoreapp3.1\LINQ_testing.runtimeconfig.json
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\bin\Debug\netcoreapp3.1\LINQ_testing.runtimeconfig.dev.json
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\bin\Debug\netcoreapp3.1\LINQ_testing.dll
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\bin\Debug\netcoreapp3.1\LINQ_testing.pdb
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.csprojAssemblyReference.cache
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.AssemblyInfoInputs.cache
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.AssemblyInfo.cs
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.csproj.CoreCompileInputs.cache
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.dll
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.pdb
+C:\Users\Ledshot\source\repos\LINQ_testing\LINQ_testing\obj\Debug\netcoreapp3.1\LINQ_testing.genruntimeconfig.cache
